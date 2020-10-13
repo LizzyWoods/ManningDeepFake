@@ -1,0 +1,2 @@
+# ManningDeepFake
+share exercises
